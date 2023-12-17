@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Japan PM eats Fukushima fish after radioactive water row",
+    "description": "A row developed over the controversial decision to discharge treated radioactive wastewater into the sea.",
+    "url": "http://www.bbc.co.uk/news/world-asia-66655801",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16EF7/production/_130934939_p0g9lmvx.jpg",
+    "publishedAt": "2023-08-30T11:07:18.7701363Z",
+    "content": "Japan's Prime Minister Fumio Kishida ate \"very delicious\" fish sashimi from Fukushima, in a video released by the Japanese government.\r\nIt follows a row over the discharge into the sea of treated rad… [+396 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Disengaging with China not credible, says James Cleverly",
+    "description": "Speaking to the BBC, the foreign secretary defends China visit, but one MP likens it to \"appeasement\".",
+    "url": "http://www.bbc.co.uk/news/uk-politics-66656443",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D389/production/_130935145_25b0d51e7df502b98f4c3efc9a543ef7c6af1e37.jpg",
+    "publishedAt": "2023-08-30T09:07:18.8033097Z",
+    "content": "Foreign Secretary James Cleverly has defended holding talks with Chinese officials in Beijing, saying it would not be \"credible\" to disengage.\r\nMeeting China's vice president, Mr Cleverly said the tr… [+4826 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Burger King faces legal claim over size of Whopper",
+    "description": "The fast food giant is accused of making the burger appear larger on menus than it actually is.",
+    "url": "http://www.bbc.co.uk/news/business-66654440",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B831/production/_130935174_whopper.jpg",
+    "publishedAt": "2023-08-30T08:22:17.0667246Z",
+    "content": "Burger King must face a lawsuit that alleges it makes its Whopper burger appear larger on its menus than it is in reality, a US judge has ruled.\r\nThe lawsuit accuses the fast food giant of misleading… [+1794 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Gabon coup: Army cancels election and seizes power",
+    "description": "Senior officers made the announcement shortly after President Bongo's re-election was announced.",
+    "url": "http://www.bbc.co.uk/news/live/world-africa-66390790",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2023-08-30T08:22:16.7699245Z",
+    "content": "Queues of lorries with food and other vital supplies have been stuck at the Nigeria-Niger borderImage caption: Queues of lorries with food and other vital supplies have been stuck at the Nigeria-Nige… [+1740 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Hurricane Idalia: What is a storm surge and why is it deadly?",
+    "description": "Hurricane Idalia could bring \"catastrophic\" waves to coastal areas. A super moon could make things worse.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66653403",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F82D/production/_130933536_e763ceb2bb9c81038ff2db31b4ca23c4d6a1dcaa0_0_4719_31461000x667.jpg",
+    "publishedAt": "2023-08-30T08:07:17.8013625Z",
+    "content": "Media caption, Watch: How quickly water rises in a storm surge\r\nAs Hurricane Idalia barrels towards Florida, residents are being warned about the potential storm surge it could cause. \r\nThe \"life-thr… [+3270 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Russia’s kamikaze drones raining down on Ukraine's east",
+    "description": "The BBC’s Quentin Sommervillle witnesses Russia's increasingly sophisticated drone attacks.",
+    "url": "http://www.bbc.co.uk/news/world-europe-66621724",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/48B5/production/_130931681_screenshot2023-08-24at10.57.26.jpg",
+    "publishedAt": "2023-08-30T07:07:23.5365703Z",
+    "content": "In Ukraine's north-east, Russia has recently deployed an estimated 100,000 troops in renewed attacks. But Quentin Sommerville, who spent the past month with Ukrainian brigades in the area, discovers … [+6803 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Voice referendum: Australia to hold historic Indigenous vote in October",
+    "description": "Voters will consider whether to recognise Indigenous people in the country's constitution.",
+    "url": "http://www.bbc.co.uk/news/world-australia-66654327",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17DC5/production/_130933779_b788ca61f7435c74d2dfa95b3bc40d136063caeb0_0_3690_24601000x667.jpg",
+    "publishedAt": "2023-08-30T07:07:23.2085266Z",
+    "content": "Australians will vote in a historic referendum on 14 October to decide whether to enact an Indigenous Voice to Parliament.\r\nIf approved, the vote would recognise Aboriginal and Torres Strait Islander… [+2397 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Nagorno-Karabakh: 'People are fainting queuing up for bread'",
+    "description": "Azerbaijan's nine-month blockade of disputed territory Nagorno-Karabakh takes its toll on residents.",
+    "url": "http://www.bbc.co.uk/news/world-europe-66646677",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F125/production/_130933716_bread.jpg",
+    "publishedAt": "2023-08-30T07:07:22.9273466Z",
+    "content": "They call it the Road of Life, as it is the only route connecting 120,000 ethnic Armenians living in Azerbaijan's Nagorno-Karabakh region with the Republic of Armenia. \r\nBut for nearly nine months th… [+7965 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: Drone attack sets Russian cargo planes on fire",
+    "description": "An airport in the northwest is struck as attacks are reported across multiple Russian regions.",
+    "url": "http://www.bbc.co.uk/news/live/world-europe-66654526",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2023-08-30T04:37:17.2712656Z",
+    "content": "Hello, you join us after a night filled with reports of multiple drone attacks across Russia's regions and a missile strike on Kyiv which reportedly left two people dead.\r\nRussian state media say an … [+722 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Mass evacuations as hurricane surges toward Florida - live updates",
+    "description": "Dangerous winds, lashing rain and a life-threatening storm surge are all forecast to hit Florida.",
+    "url": "http://www.bbc.co.uk/news/live/world-us-canada-66640995",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2023-08-29T16:37:24.0395096Z",
+    "content": null
+    }
+    ]
+    }
